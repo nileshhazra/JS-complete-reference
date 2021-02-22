@@ -9,6 +9,7 @@ val = Array.isArray(numbers);
 val = numbers[3];
 numbers[3] = 100;
 val = numbers.indexOf(2);
+numbers.
 
 numbers.push(10);
 numbers.unshift(20);
@@ -34,3 +35,4 @@ val = numbersAgain.find(under3);
 console.log(numbersAgain);
 console.log(numbers);
 console.log(val);
+
